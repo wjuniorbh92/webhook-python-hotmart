@@ -1,0 +1,18 @@
+{
+    "sql" : {
+        "host":"host-on-sql",
+        "user":"user-sql",
+        "password": "password-sql",
+        "db":"db",
+        "port":"2500"
+    },
+    "mail" : {
+        "username":"support@domain.com",
+        "password": "password-mail",
+        "mail-server":"smtp.domain.com"
+    },
+    "hotmart":{
+        "hottook": "Youhottook"
+    }
+
+}

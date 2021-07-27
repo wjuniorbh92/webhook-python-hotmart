@@ -1,0 +1,9 @@
+requests
+flask
+wheel
+uwsgi
+query-string
+psycopg2-binary
+SQLAlchemy
+Flask-Mail
+gunicorn
